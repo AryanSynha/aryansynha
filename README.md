@@ -219,19 +219,19 @@ Learning  : DevOps, RAG, Agent Systems
 
 <p align="center">
 <a href="mailto:your@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/EMAIL-codefuckers-white?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email"/>
 </a>
 <a href="https://instagram.com/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/IG-codefuckers-white?style=for-the-badge&logo=instagram&logoColor=E4405F&logoSize=auto&labelColor=f9e0ea" alt="Instagram"/>
 </a>
 <a href="https://github.com/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=f9e0ea" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/GH-codefuckers-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=f9e0ea" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LI-codefuckers-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=000000&logoSize=auto&labelColor=f9e0ea" alt="X Badge"/>
+  <img src="https://img.shields.io/badge/X-codefuckers-white?style=for-the-badge&logo=x&logoColor=000000&logoSize=auto&labelColor=f9e0ea" alt="X"/>
 </a>
 </p>
 <br>
