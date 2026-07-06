@@ -1,21 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=mekyrus&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=82&stroke=ffffff&strokeWidth=1&color=0:000000,40:0d0d0d,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=codefuckers&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=82&stroke=ffffff&strokeWidth=1&color=0:000000,40:0d0d0d,100:000000"/>
 
 </div>
 
 <div align="center">
 
-<!-- VIDEO CONVERTED TO GIF — plays inline automatically -->
-<img src="banner.gif" width="100%" alt="mekyrus intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=3000&pause=800&color=DDDDDD&center=true&vCenter=true&width=760&lines=codefuckers+%2F+README.md;Aryan+Sinha+%E2%80%94+AI-Augmented+Developer;%22Those+who+see+with+the+mind...%22;%22...will+always+see+beyond.%22;%22The+real+shift+happens+when+you+see+things+as+they+are.%22;Python+%C2%B7+LLMs+%C2%B7+Server+Sorcery" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=3000&pause=800&color=DDDDDD&center=true&vCenter=true&width=760&lines=mekyrus+%2F+README.md;Aryan+Sinha+%E2%80%94+AI-Augmented+Developer;%22Those+who+see+with+the+mind...%22;%22...will+always+see+beyond.%22;%22The+real+shift+happens+when+you+see+things+as+they+are.%22;Python+%C2%B7+LLMs+%C2%B7+Server+Sorcery" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mekyrus.mekyrus&left_text=Shadow+Garden+Members&left_color=black&right_color=red"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=codefuckers.codefuckers&left_text=Shadow+Garden+Members&left_color=black&right_color=red"/>
 
 </div>
 
@@ -23,6 +18,19 @@
 
 ---
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
+
+---
+
+<!-- GitHub Stats Row -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codefuckers&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=bbbbbb&text_color=cccccc&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefuckers&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d1117&langs_count=6" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codefuckers&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ff5555&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888" />
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
@@ -33,10 +41,10 @@
 <img align="left" src="https://raw.githubusercontent.com/debasishray16/debasishray16/main/images/Solo-Leveling-PNG.png" width="35%"/>
 
 ```cpp
-Profile Version : 1.0
+Profile Version : 2.0
 ---------------------
 Name      : Aryan Sinha
-Alias     : mekyrus
+Alias     : codefuckers
 Class     : AI-Augmented Developer
 OS        : Linux / Windows
 Shell     : Bash / Zsh
@@ -57,8 +65,8 @@ Learning  : DevOps, RAG, Agent Systems
 ```
 
 <div align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mekyrus&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mekyrus&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=codefuckers&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=codefuckers&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true"/>
 </a>
 </div>
 
@@ -68,7 +76,9 @@ Learning  : DevOps, RAG, Agent Systems
 
 ---
 
+<!-- Activity Graph -->
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codefuckers&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true&radius=8" width="100%"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
@@ -190,7 +200,7 @@ Learning  : DevOps, RAG, Agent Systems
 
 <h2 align="center"> 🇨🇴🇳🇹🇦🇨🇹 🇲🇪 </h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mekyrus/mekyrus/main/assets/aurora.jpg" 
+  <img src="https://raw.githubusercontent.com/codefuckers/codefuckers/main/assets/aurora.jpg" 
     align="left" 
     width="300" 
     height="auto">
@@ -211,16 +221,16 @@ Learning  : DevOps, RAG, Agent Systems
 <a href="mailto:your@email.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
 </a>
-<a href="https://instagram.com/mekyrus" target="_blank">
+<a href="https://instagram.com/codefuckers" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
 </a>
-<a href="https://github.com/mekyrus" target="_blank">
+<a href="https://github.com/codefuckers" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=f9e0ea" alt="GitHub Badge"/>
 </a>
-<a href="https://linkedin.com/in/mekyrus" target="_blank">
+<a href="https://linkedin.com/in/codefuckers" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn Badge"/>
 </a>
-<a href="https://x.com/mekyrus" target="_blank">
+<a href="https://x.com/codefuckers" target="_blank">
   <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=000000&logoSize=auto&labelColor=f9e0ea" alt="X Badge"/>
 </a>
 </p>
