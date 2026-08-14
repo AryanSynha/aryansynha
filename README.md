@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=codefuckers&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=82&stroke=ffffff&strokeWidth=1&color=0:000000,40:0d0d0d,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=aryansynha&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=82&stroke=ffffff&strokeWidth=1&color=0:000000,40:0d0d0d,100:000000"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=3000&pause=800&color=DDDDDD&center=true&vCenter=true&width=760&lines=codefuckers+%2F+README.md;Aryan+Sinha+%E2%80%94+AI-Augmented+Developer;%22Those+who+see+with+the+mind...%22;%22...will+always+see+beyond.%22;%22The+real+shift+happens+when+you+see+things+as+they+are.%22;Python+%C2%B7+LLMs+%C2%B7+Server+Sorcery" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=3000&pause=800&color=DDDDDD&center=true&vCenter=true&width=760&lines=aryansynha+%2F+README.md;Aryan+Sinha+%E2%80%94+AI-Augmented+Developer;%22Those+who+see+with+the+mind...%22;%22...will+always+see+beyond.%22;%22The+real+shift+happens+when+you+see+things+as+they+are.%22;Python+%C2%B7+LLMs+%C2%B7+Server+Sorcery" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=codefuckers.codefuckers&left_text=Shadow+Garden+Members&left_color=black&right_color=red"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aryansynha.aryansynha&left_text=Shadow+Garden+Members&left_color=black&right_color=red"/>
 
 </div>
 
@@ -24,12 +24,12 @@
 
 <!-- GitHub Stats Row -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codefuckers&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=bbbbbb&text_color=cccccc&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefuckers&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d1117&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryansynha&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=bbbbbb&text_color=cccccc&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansynha&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d1117&langs_count=6" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codefuckers&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ff5555&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansynha&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ff5555&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
@@ -44,7 +44,7 @@
 Profile Version : 2.0
 ---------------------
 Name      : Aryan Sinha
-Alias     : codefuckers
+Alias     : aryansynha
 Class     : AI-Augmented Developer
 OS        : Linux / Windows
 Shell     : Bash / Zsh
@@ -65,8 +65,8 @@ Learning  : DevOps, RAG, Agent Systems
 ```
 
 <div align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=codefuckers&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=codefuckers&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=aryansynha&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=aryansynha&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true"/>
 </a>
 </div>
 
@@ -78,7 +78,7 @@ Learning  : DevOps, RAG, Agent Systems
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codefuckers&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true&radius=8" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansynha&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true&radius=8" width="100%"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
@@ -200,7 +200,7 @@ Learning  : DevOps, RAG, Agent Systems
 
 <h2 align="center"> 🇨🇴🇳🇹🇦🇨🇹 🇲🇪 </h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codefuckers/codefuckers/main/assets/aurora.jpg" 
+  <img src="https://raw.githubusercontent.com/aryansynha/aryansynha/main/assets/aurora.jpg" 
     align="left" 
     width="300" 
     height="auto">
@@ -219,19 +219,19 @@ Learning  : DevOps, RAG, Agent Systems
 
 <p align="center">
 <a href="mailto:your@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-codefuckers-white?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-aryansynha-white?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email"/>
 </a>
-<a href="https://instagram.com/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/IG-codefuckers-white?style=for-the-badge&logo=instagram&logoColor=E4405F&logoSize=auto&labelColor=f9e0ea" alt="Instagram"/>
+<a href="https://instagram.com/aryansynha" target="_blank">
+  <img src="https://img.shields.io/badge/IG-aryansynha-white?style=for-the-badge&logo=instagram&logoColor=E4405F&logoSize=auto&labelColor=f9e0ea" alt="Instagram"/>
 </a>
-<a href="https://github.com/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/GH-codefuckers-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=f9e0ea" alt="GitHub"/>
+<a href="https://github.com/aryansynha" target="_blank">
+  <img src="https://img.shields.io/badge/GH-aryansynha-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=f9e0ea" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/LI-codefuckers-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/aryansynha" target="_blank">
+  <img src="https://img.shields.io/badge/LI-aryansynha-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/codefuckers" target="_blank">
-  <img src="https://img.shields.io/badge/X-codefuckers-white?style=for-the-badge&logo=x&logoColor=000000&logoSize=auto&labelColor=f9e0ea" alt="X"/>
+<a href="https://x.com/aryansynha" target="_blank">
+  <img src="https://img.shields.io/badge/X-aryansynha-white?style=for-the-badge&logo=x&logoColor=000000&logoSize=auto&labelColor=f9e0ea" alt="X"/>
 </a>
 </p>
 <br>
